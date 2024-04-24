@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @harryyao6
+- 👀 I’m interested in math and computer science
+- 🌱 I’m currently learning computer vision and differential equations
